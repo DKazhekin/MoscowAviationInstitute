@@ -1,6 +1,6 @@
 """
 This program implements the Simple Iterations and Seidel Iterations methods for solving the system of linear equations.
-You need to instanciate a solver class 'Iterations' with your coefficient matrix A and bias vector b.
+You need to instanciate a solver class 'Iterations' with your coefficient matrix A and bias vector b
 """
 
 import numpy as np
