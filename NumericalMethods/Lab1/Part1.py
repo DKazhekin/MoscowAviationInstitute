@@ -1,3 +1,10 @@
+"""
+In this program you need to instanciate the solver class 'linalg' with your coefficient matrix A and bias vector b.
+Further, it has some useful methods.
+You can do LU decomposition, find an inverted matrix A, compute the determinant of A
+and solve the system of linear equations.
+"""
+
 import numpy as np
 import pandas as pd
 

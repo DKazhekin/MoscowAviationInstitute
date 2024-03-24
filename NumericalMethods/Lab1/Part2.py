@@ -1,3 +1,8 @@
+"""
+In this program you can solve the system of linear equations, where a coefficient matrix has a special form of 3-Diagonal matrix.
+So, you need to instanciate a solver class 'RunThrough' with your coefficient matrix A and bias vector b.
+"""
+
 import numpy as np
 import pandas as pd
 
