@@ -1,3 +1,9 @@
+"""
+This program implements the Jacobi rotation method to find the eigenvalues and eigenvectors of a symmetric matrix.
+You need to provide the matrix A and the tolerance value eps. The program will return the eigenvalues and eigenvectors
+Don't forget to instanciate the Eigen class with the matrix A and the tolerance value eps. Then, call the method
+"""
+
 import numpy as np
 
 
