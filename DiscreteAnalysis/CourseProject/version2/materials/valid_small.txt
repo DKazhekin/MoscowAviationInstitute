@@ -1,0 +1,306 @@
+1
+get css value external style sheet javascript jquery
+possible get value external css page element style refer generate yet element generate dynamically jquery method I have see element css property rely element page way find property set within css rather compute style elementwill something ugly like add hide copy element page access style attribute
+1
+use object literal constructor function
+get confused way create object javascript seem least two way one use object literal notation use construction function advantage one
+1
+exactly stringstream
+try learn c++ since yesterday use documenthttp wwwcpluspluscom file tutorialpdf page 32 find code document run try inputte rs 55 price integer quantity output 0i try inputte 55 6 output correct stringstreams#include iostream # include string # include sstream use namespace std int main string mystr float price 0 int quantity 0 cout enter price getline cin mystr stringstream mystr price cout enter quantity getline cin mystr stringstream mystr quantity cout total price pricequantity endl return 0 question exactly mystre command quote document example acquire numeric value standard input indirectly instead extract numeric value directly standard input get line standard input cin string object mystr extract integer value stre variable type int quantity impression function take integral part string use input do nt exactly know ask question also new programming thank
+1
+allow access permission write program file window 7
+application throw access deny error write temporary file installation directory executable reside however work perfectly well xp provide access right program file directory window 7edithow make program ask user elevate right ie run program full admin right
+1
+mean hashable python
+try search internet could find mean hashablewhen say object hashable hashable object mean
+1
+add extra language input android
+possible add extra language android current android phone support english chinese language input would like dutch also use word completion question top switch easily language text input keyboard gui
+1
+remove class element jquery
+change class element follow # + dataid addclass highlight give list div idmenuitem ul idcontentleft classedgetoedge li classsep shake float li li id297a href # onclickcart 297 add small500 smallbvanilla b li li id298a href # onclickcart 298 add small500 smallbpeanut butter b li li id299a href # onclickcart 299 add small500 smallbcombo b li li id300a href # onclickcart 300 add small500 smallbchocolate b li li id301a href # onclickcart 301 add small500 smallbstrawberry b li li id303a href # onclickcart 303 add small500 smallbbanana b li li id304a href # onclickcart 304 add small500 smallbroot beer float b li li id305a href # onclickcart 305 add small500 smallbespresso b li ul div assume could remove class edgetoedge removeclass highlight do nt work remove class
+1
+check file size python
+write python script window want something base file size example size great 0 send email somebody otherwise continue thing check file size
+1
+convert javautilpropertie hashmapstre string
+property propertie new property mapstre string map new hashmapstring string property wrongjavautilpropertie implement map hashmap constructor receive map type parambut must convert explicitly
+1
+aa aa undefined behaviour initialize
+consider program#include stdiohint main void unsigned int printf u un aa aa return 0 undefined behaviouron face uninitialized variable point undefined behaviour aa aa equal 0 value least think case possible way argue behaviour well define
+1
+list asset subdirectory use assetmanagerlist
+application asset directory I have dump bunch text file need load runtimei directory full asset particular type ie asset subdir want load file directory one timei code like thisassetmanager assetmgr getasset string assetsiwant assetmgrlist subdir string asset assetsiwant doassetythe asset I have try zillion different version parameter assetmgrlist get anywhereif use get back list contain asset directory random item meta_inf example pass string like asset asset asset asset mysubdir mysubdir asset mysubdir get back empty arraythe documentation unfortunately fairly incoherentdoe anybody know correct formula list parameter
+1
+repeat string variable number time c++
+want insert n space string begin string c++ direct way use either stdstring char stringseg python could simply 5 + lolcatlolcat
+1
+get class name full path
+aware use context method getclass getname get string represent full class name like compackage1package2mainactivity get last part class name case would mainactivity string simple split method maybe well way reliable
+1
+difference java interface objectivec protocol
+know java I m learn objectivec exactly difference java interface objectivec protocol
+1
+ca nt push bare repository
+explain wrong workflow git init bare bareinitialize empty git repository work fun git_experiments bare git clone bare alicecloning alicedonewarne appear clone empty repository cd alice touch git add git commit add master rootcommit 70d52d4 add 0 file change 0 insertion + 0 deletion create mode 100644 git pushno ref common none specify nothingperhap specify branch masterfatal remote end hung unexpectedlyerror fail push ref work fun git_experiments baredoesnt git push always push repository clone
+1
+choose mouseover hover function
+difference jquery mouseover hover function totally jquery use
+1
+add function jquery
+what s easy way define new jquery member functionso call something like # i d applymyownfunc
+1
+diff current work copy file another branch commit copy
+repo file foo master branch switch bar branch make change foo run git diff copy be nt commit yet copy master branch
+1
+const string vs static readonly string c #
+c # what s difference betweenstatic readonly string mystr andconst string mystr
+1
+proper wrapper consolelog correct line number
+I m develop application place global isdebug switch would like wrap consolelog convenient usage isdebug control entire sitevar isdebug true debugjsfunction debug msg level var global globalisdebug globalconsole globalconsolelog return level level info globalconsolelog level + + msg mainjsdebug msg get result firefox consoleinfo msg debugjs line 8 want log line number debug get call like info msg mainj line 2
+1
+subprocesscheck_output do nt seem exist python 265
+I have read python documentation subprocess module see talk subprocesscheck_output command seem exactly needhowever try use get error do nt exist run dir subprocess listedi run python 265 code use belowimport subprocesssubprocesscheck_output ls l dev null anyone idea happen
+1
+difference detach hide remove jquery
+functional difference three jquery methodsdetach hide remove
+1
+what s difference use jquerys onclick onclick attribute
+what s difference follow two piece html apology typos I m type freehand use jqueryscript typetext javascript document ready function # clickme click function alert click scripta idclickme hrefjavascriptvoid 0 click anot use jquerya idclickme hrefjavascriptvoid 0 onclickalert click click
+1
+color table column use css without color individual cell
+way color span column way see start example belowtable border1 tr thmotor th th colspan3engine th thcar th th colspan2body th tr tr td1 td td2 td td3 td td4 td td5 td td6 td td7 td tr tr td7 td td1 td td2 td td3 td td4 td td5 td td6 td tr tableand look well way less code nonindividual color color example engine body span include cell underneath # dddstyle color backgroundcolor # ddd styletable border1 tr thmotor th th colspan3 classcolorengine th thcar th th colspan2 classcolorbody th tr tr td1 td td classcolor2 td td classcolor3 td td classcolor4 td td5 td td classcolor6 td td classcolor7 td tr tr td7 td td classcolor1 td td classcolor2 td td classcolor3 td td4 td td classcolor5 td td classcolor6 td tr table
+1
+array 4 javascript
+boot interpreter console try comparison array 4 truewhy first think maybe since could think array four character 0 terminate slice might array 4 return false know idiosyncratic bit duck type javascript curious underline behavior glean ze shaw excellent presentation btw
+1
+textarea auto height
+want make height textarea equal height text within remove scroll bar htmltextarea idnotesome text textareacsstextarea#note width100 directionrtl displayblock maxwidth100 lineheight15 padding15px 15px 30px borderradius3px border1px solid # f7e98d font13px tahoma cursive transitionboxshadow 05 ease boxshadow0 4px 6px rgba 0 0 0 01 fontsmoothingsubpixelantialiased backgroundlineargradient # f9efaf # f7e98d backgroundolineargradient # f9efaf # f7e98d backgroundmslineargradient # f9efaf # f7e98d backgroundmozlineargradient # f9efaf # f7e98d backgroundwebkitlineargradient # f9efaf # f7e98d jsfiddle http jsfiddlenet tw9rj
+1
+make font bold use css
+I m new html css wondering could make font bold use cssi plain html page import css file change font css do nt know make font bold anyone help
+1
+datepicker popup datepicker click edittext
+want show datepicker popup window find example get properly one edittext want click edittext datepicker dialog popup set date date show edittext dd mm yyyy format please provide sample code good link
+1
+git merge apply change code move different file
+attempt pretty beefy git merge maneuver right one problem come across make change code branch colleague move code new file branch git merge my_branch his_branch git notice code new file old none change what s easy way go apply change code new file wo nt many problem find commit need reapplie use git log stat far tell way get git reapply change new file easy thing see right manually reapply change look like good idea know git recognize blob file surely must way tell apply exact code change commit except new file
+1
+difference return return
+function return 1 function b return 1 test code chrome console return 1function c return 1 function return 1 also test code function return 1so difference use return return
+1
+git merge rename file
+large website move new framework process add git current site do nt version control iti start copy site new git repository make new branch make change need make work new framework one step change file extension pagesnow time work new site change make file old site switch master copy change inthe problem merge branch new framework back onto master conflict every file change master branchi would nt worry couple hundred file change try git rebase git rebase merge luckhow merge 2 branch without deal every file
+1
+filecreate need closed
+follow throw exception process can not access file dmydirfirsttxt use another processstatic void main string args directorycreatedirectory dmydir filecreate dmydirfirsttxt filewritealltext dmydirfirsttxt stackoverflowcom however follow worksuse filecreate dmydirfirsttxt orfilecreate dmydirfirsttxt close filecreate need close
+1
+c++ template function inside template class
+code template class class myclass public template class u void foo u ainvoke want form template class class myclass public template class u void foo template class void myclasstfoo u ainvoke right syntax
+1
+html image find
+image html pageif image find server show ugly blank squarei want make image find display nothing default image know definitely serverhow do
+1
+io app programmatically get build version
+way programmatically get build version app need able detect user update app appstore order execute code adjustment
+1
+find html element i d start
+html code multiple page use jqgrid jquery grid display datum know page element hold jqgrid name list_xxx need make javascript take element list_xxxx page stuff could search element i d knowing initial part i d like mention previously # list _ xxxx part surround variable page want discriminate thati hope make clear thank
+1
+net stringformat add commas thousand place number
+want add comma thousand place number stringformat
+1
+place button right align
+use code right align button p alignright input typebutton valueclick pbut p tag waste space look span div
+1
+pad lead zero
+pad integer variable lead zeroslike integer abc value 20 want 0000020codequarterlyreportdatacmmsqrtrailerrecordfilerecordcount converttoint32 refeligibleclaimantscount
+1
+remove css div use jquery
+I m new jquery app follow # displaypanel div live click function css backgroundcolor pink fontweight bolder click div color div change within click function functionality want remove apply css div could jquery
+1
+git undo push commit
+project remote repository synchronize local repository development server one prod I have make commited change already push remote pull server want undo change could git checkout commit change commit new change I m guess problem push remote suggestion proceed
+1
+set fix background position right side css
+caseli background url img greyarrownextpng norepeat right center borderbottom 1px solid # d4e8eb want 20px space right side background image ca nt give margin li border touch edgesso need set 20px take 20px left side right sideli background url img greyarrownextpng norepeat 20px center borderbottom 1px solid # d4e8eb
+1
+jqueryproxy usage
+read api jqueryproxy look promise wonder situation good use anyone enlighten
+1
+write file assembly resource stream disk
+ca nt seem find efficient way copy embed resource disk followinguse binaryreader reader new binaryreader assemblygetmanifestresourcestream namespaceresourcesfileext use binarywriter writer new binarywriter new filestream path filemodecreate long bytesleft readerbasestreamlength bytesleft 0 65535l int32maxvalue need test overflow byte chunk readerreadbyte int mathmin bytesleft 65536l writerwrite chunk bytesleft chunklength appear direct way copy unless I m miss something
+1
+create css rule class jquery runtime
+usually css file follow rule#mywindow position fix zindex 102 displaynone top50 left50 avoid create static css file add css information runtime action body something similar use jquery want define jquery use many time later that s want add time specific dom elementsi know simple feature css attr1 value create complete reusable css rule
+1
+remove css top leave attribute jquery
+I m build draggable map map drag element give leave top attribute value sodiv classmap styletop200px left100px map divi button want remove top left attribute inline style div click possible jquery
+1
+recommend use semicolon every statement javascript
+many situation javascript parser insert semicolon leave question leave outif you be unfamiliar rule there s description semicolon insertion mozilla site here key pointif first nth tokens javascript program form grammatically valid first n+1st tokens line break nth token n+1st tokens parser try parse program insert virtual semicolon token nth n+1st tokensthat description may incomplete do nt explain dreass example anybody link complete rule see example get semicolon try jscriptnet stackoverflow question relate talk specific scenario
+1
+make href tag refer nothing
+make href tag refer nothingi use jquery need make anchor tag perform actioni usually write like thisa href#link ahowever refer top page
+1
+nest try except block python good programming practice
+I m write container need give access dictionary inside attribute call typical use container would like thistemp_container dictcontainer dict_container foo barprint dict_containerfooi know might stupid write something like that s functionality need provide think implement follow waydef _ _ getattribute _ _ self item try return object__getattribute _ _ item except attributeerror try return selfdict item except keyerror print object do nt attributeim sure whether nest try except block good practice another way would use hasattr has_key def _ _ getattribute _ _ self item hasattr self item return object__getattribute _ _ item else selfdicthas_key item return selfdict item else raise attributeerror customise error use one one try catch block like thisdef _ _ getattribute _ _ self item hasattr self item return object__getattribute _ _ item else try return selfdict item except keyerror raise attributeerror customise error option pythonic elegant
+1
+use ilist use list
+know ilist interface list concrete type still do nt know use one I m do nt need sort findall method use interface right well way decide use interface concrete type
+1
+get complete list object method attribute
+dir recompile pattern return pattern one listss element namely return _ _ copy _ _ _ _ deepcopy _ _ findall finditer match scanner search split sub subn accord manual suppose contain object attribute name name classs attribute recursively attribute classs base classesit say also thatthe list necessarily completeis way get complete list always assume dir return complete list apparently notalso way list attribute methodsedit actually bug python supposedly fix 30 branch perhaps also 26
+1
+target_blank vs target_new
+what s difference target_new target_blank use want open link new tab window
+1
+get div float bottom container
+float image inset box top container use floatright leave many time recently hit need float div bottom right corner another div normal text wrap get float text wrap left thought must relatively easy even though float bottom value have nt able use number technique search web have nt come anything use absolute positioning do nt give correct word wrap behaviouri thought would common design apparently be nt nobody suggestion ill break text separate box align div manually rather precarious i d hate every page need
+1
+specify maxlength css
+replace maxlength attribute something cssinput typetext idphone_extension maxlength4
+1
+set background color jquery
+set background color td jqueryeg css backgroundcolorre thank
+1
+get phone number android
+get phone number androidwhen use telephonymanager tmgr telephonymanager thisgetsystemservice contexttelephony_service string mphonenumber tmgrgetline1number useusespermission androidnameandroidpermissionread_phone_state return nullwhy
+1
+get current php page name
+possible duplicateget current script file name I have file call demophp do nt get variable url want hide button page ca nt use something like _ get name value hide else show want something likefilename get file nameif filename file_namephp hide else show do nt want declare unnecessary get variable
+1
+javascript locationhref open new window tab
+javascript file third party developer link replace current page target want page open new tabthis farif command lightbox locationhrefhttps supportwwforguk earth_hour indexphptypeindividual anyone help
+1
+what s difference getpath getabsolutepath getcanonicalpath java
+what s difference getpath getabsolutepath getcanonicalpath javaand use one
+1
+stringreplaceall without regex
+i d like replace instance substre string stringreplaceall accept pattern string come previous match possible add escape pattern version replaceall another class accept literal string instead pattern
+1
+make division 2 int produce float instead another int
+another bruce eckel exercise calculate velocity v integer make division crank floatclass calcv float v float calcv int int v return v end calcv public class passobject public static void main string args int distance distance 4 int 3 float outv calcv v new calcv outv vcalcv distance systemoutprintln velocity + outv end main end class
+1
+python sort list tuple
+empirically seem python default list sorter pass list tuple sort first element tuple correct what s right way sort list tuple first element
+1
+convert dictionarystre string semicolon separate string c #
+simple one start day give dictionarystre string followsvar mydict new dictionarystre string mydict 1 mydict b 2 mydict c 3 mydict 4 wish create string a1 b2 c3 d4an example implementationvar mystringbuilder new stringbuilder bool first true foreach keyvaluepairstre string pair mydict first first false else mystringbuilderappend mystringbuilderappendformat 0 1 pairkey pairvalue var mydesiredoutput mystringbuildertostring note dictionary likely less 10 item suggest stringbuilder overkillwhat alternative implementation succinct efficient framework feature help
+1
+know process run
+get reference systemdiagnosticsprocess know process currently run
+1
+fast way check string contain digit
+know way check thisregex intparse tryparse loopingcan anyone tell fast way checkthe need check need actually parsethis question identify stre numberthe question identifybut fast method
+1
+round minute datetime object python
+datetime object produce use strptime tmdatetimedatetime 2010 6 10 3 56 23 need round minute close 10th minute point take minute value use round itmin round tmminute 1 however example give invalid time minute value great 56 ie 360what well way datetime support
+1
+sort array without mutate original array
+let suppose want sort function return sort copy inputte array naively try thisfunction sort arr return arrsort test show sort method mutate arrayvar 2 3 7 5 3 7 1 3 4 sort alert alert 1 2 3 3 3 4 5 7 7i also try approachfunction sort arr return arrayprototypesort arr do nt work allis straightforward way around prefereably way do nt require handrolle sort algorithm copy every element array new one
+1
+tell variable iterable string
+function take argument either single item double itemdef iterable arg # arg iterable print yes else print noso iterable f f yes iterable f f yes iterable ff nothe problem string technically iterable ca nt catch valueerror try arg 1 do nt want use isinstance that s good practice I m tell
+1
+convert string double python
+would like know convert string contain digit double
+1
+create new empty root branch
+would like define new root branch git repository root branch mean branch entirely independent branch repository1unfortunately even commit let call base repos commit tree contain lot file repository initialize already fairly mature project mean even give new branch startpoint new branch would start clean slate rather would contain file commit ais way create completely bare branch repository startpoint close possible1btw equivalent create new repo separate repos would less convenient lot reasonsedit ok base vcsjone answer # save rev current early commitoldbase git revlist maxparents0 head # create new orphan branch switch itgit checkout orphan newbranch # make sure emptygit rm rf # create new empty commit new branch and # save rev newbasegit commit allowempty base commit empty newbase git revlist head # specify newbase new parent oldbase and # run filterbranch original branchecho oldbase newbase git info graftsgit checkout mastergit filterbranch # note assume original repo one # branch gitfilterbranch f branch command # need run additional branchrm git info graftsalthough procedure bit involve end result empty base commit serve startpoint new cleanslate branch i d need isgit checkout b cleanslate git revlist maxparents0 head future always create new repository like thisgit initgit commit allowempty base commit empty first commit empty always available start new independent branch would know rarely need facility quite effortless make readily available
+1
+deep copying array use jquery
+possible duplicatewhat efficient way clone javascript object need copy order associative array object I m use jquery initially try jqueryextend myarray naturally give back object need array really love jqueryextend way what s good way copy array
+1
+code never execute invoke undefined behavior
+code invoke undefined behavior example division zero never get execute program still undefine behaviorint main void int 0 1 0 return 0 think still undefined behavior ca nt find evidence standard support deny meso idea
+1
+cause android contentresolverquery return null
+condition contentresolverquery return null instead cursor object I have get empty cursor realize method also return null have nt able trace circumstance happen though
+1
+make anchor link nonclickable disabled
+anchor link want disable user click remove anchor tag around text definitely keep texta href idthislinksome text ai easily button add attr disabled disabled successfully add disabled property link still clickablei do nt really care text underline clueyou try http wwwawesomealbumsinfo whoamiwhen click wrong musician add wrong become unclickablewhen click correct add awesome disable tag
+1
+type checking typeof gettype
+I have see many people use follow codetype typeof obj1 typeof int code herebut know could also thisif obj1gettype typeof int code hereor thisif obj1 int code herepersonally feel last one clean something I m miss one good use personal preference
+1
+change cursor wait javascript jquery
+would get cursor change loading icon function call would change back normal cursor javascript jquery
+1
+listen change contact database
+try listen change contact databaseso create contentobserver child class contentobserver private class mycontentobserver extend contentobserver public mycontentobserver super null override public void onchange boolean selfchange superonchange selfchange systemoutprintln call onchange mycontentobserver contentobserver new mycontentobserver contextgetcontentresolver registercontentobserver peoplecontent_uri true contentobserver use editcontactactivity change contact database onchange get call
+1
+difference i++ + + I
+I have see use numerous piece c # code I d like know use i++ + + I number variable like int float double etc anyone know
+1
+convert base2 binary number string int
+I d simply like convert base2 binary number string int something like 11111111frombinarytoint 255is way python
+1
+exclude directory oswalk
+I m write script descend directory tree use oswalk visit file match certain file extension however since directory tree tool use also contain sub directory turn contain lot useless purpose script stuff figure i d add option user specify list directory exclude traversalthis easy enough oswalk decide whether actually want visit respective file dir yield oswalk skip problem example directory tree like thisroot dira dirb uselessstuff morejunk yetmorejunkand want exclude uselessstuff children oswalk still descend potentially thousand sub directory uselessstuff needless say slow thing lot ideal world could tell oswalk even bother yield child uselessstuff knowledge way anyone idea maybe there s thirdparty library provide something like
+1
+variable number argument pass function
+similar way use varargs c c++fn b fn b c
+1
+define function within another function javascript
+function foo condition perform task 1 perform task 3 else perform task 2 perform task 3 function whose structure similar want abstract task 3 function bar wish limit access function within scope foo achieve want right change followingfunction foo function bar perform task 3 condition perform task 1 bar else perform task 2 bar correct bar get redefine every time foo get call worrying waste cpu resource
+1
+git checkout specific folder
+want use something similar togit checkout path filebut want checkout file folder choose rather overwrite local idea
+1
+symbol mean javascript
+thisthis collection question come every syntax javascript also community wiki everyone invite participate maintain listwhy thisstack overflow allow search particular character consequence many question operator syntax token find easily search also make closing duplicate difficult list help issuethe main idea link exist question stack overflow easy us reference copy content ecmascript specadditionally blatant copy php symbol reference need js one please help edit add link operator syntax reference ca nt find good question answer particular piece syntax add answer question link
+1
+use onclick html bad practice
+hear many time use javascript event onclick html bad practice good semantic would like know downside fix follow codea href # onclickpopup map 300 300 map return false link
+1
+final place variable
+basic question final place variable belowfinal edittext mytextfield edittext findviewbyid ridmytextfield final
+1
+show div scrolldown 800px
+want show hide div scroll 800px top page example guess need modification order achive look foredit scrollup height less 800px div hide htmldiv classbottommenu content divcssbottommenu width 100 height 60px bordertop 1px solid # 000 position fix bottom 0px zindex 100 opacity 0 jquery document ready function window scroll function bottommenu function var bottom_of_object position top + outerheight var bottom_of_window window scrolltop + window height bottom_of_window bottom_of_object animate opacity1 500 fiddle current code
+1
+hide button programmatically
+relativelayout contain two button overlap otherxml version10 encodingutf8relativelayout xmlnsandroidhttp schemasandroidcom apk res android androidorientationvertical androidlayout_widthfill_parent androidlayout_heightfill_parent androidbackground#ffffffbutton androidtextplay androidid + i d play androidlayout_widthfill_parent androidlayout_heightwrap_content androidlayout_alignparentbottom true buttonbutton androidtextstop androidid + i d stop androidlayout_widthfill_parent androidlayout_heightwrap_content androidlayout_alignparentbottom true button relativelayouti want programmatically show one button time click event calledi try playbuttonsetvisibility 1 work follow example try doplaybutton button findviewbyid ridplay playbuttonsetvisibility 1 playbuttonsetonclicklistener new onclicklistener override public void onclick view v play click show stop button hide play button
+1
+reimport module python interactive
+know done never remember howhow reimport module python scenario follow import module interactively tinker face error fix error py file want reimport fix module without quit python
+1
+test class object objectivec
+test whether object instance particular class objectivec let say want see object instance class b class c go
+1
+change background color android app
+want able change background color white android app simplest way possible
+1
+jquery uncaught typeerror property object object window function
+download prebundle js css form application I m try use wordpress I have got follow code document ready function parse datum dataattribute dom element parsedata function datum returnarray test data array data datasubstr 1 datalength 2 split returnarray isarray data data null data array datum return data image preloader http engineeredwebcom blog 09 12 preloadingimagesjqueryandjavascript argument image path relative current pagepreload function var cache args_len argumentslength var args_len var cacheimage documentcreateelement img cacheimagesrc argument cachepush cacheimage fadeinslide revaxartscom fades box slide get remove fnfadeinslide function speed callback isfunction speed callback speed speed speed 200 callback callback function thiseach function var thisfadeto speed 2 1 slidedown speed 2 function callback return fadeoutslide revaxartscom fade box slide get remove fnfadeoutslide function speed callback isfunction speed callback speed speed speed 200 callback callback function thiseach function var thisfadeto speed 2 0 slideup speed 2 function thisremove callback return textfadeout revaxartscom fades box slide get remove fntextfadeout function text delay callback text return false isfunction delay callback delay delay delay 2000 callback callback function thiseach function var thisstop text text show delay delay fadeout 1000 function thistext show callback return leadingzero revaxartscom add lede zero necessary leadingzero function value value parseint value 10 isnan value value 10 value 0 + value value return value assume wordpress conflict cause issue update last bracket look like follow jquery however I m still get error anyone know would casue issue get resolvedthank advance
+1
+mean parse error syntax error unexpecte t_paamayim_nekudotayim
+t_paamayim_nekudotayim sound really exotic certainly absolutely nonsense trace line codephpclass context protect config public function getconfig key here problem somewhere cnf thisconfig return cnfgetconfig key function _ _ construct thisconfig new config constructor create config object here classfinal class config private static instance null private static config public static function getconfig key return selfconfig key public static function getinstance selfinstance selfinstance new config return selfinstance private function _ _ construct include configuration file include _ _ root_include_path sys config configphp define config array thisconfig config idea do nt work error mean
+1
+closing application
+good practice close c # applicationi read useenvironmentexit 0 applicationexit differencefurthermore regard environmentexit 0 use exit code work java never fully understand purpose role play exiting application c #
+1
+java initialize int array constructor
+class class code private int datum new int 3 codethen constructorpublic date data 0 0 datum 1 0 datum 2 0 everything ok default datum value initialize instead thispublic date int datum 0 0 0 sayslocal variable hide fieldwhywhat good way initialize array inside constructorthank
+1
+git replace lf crlf
+run git windows xp machine use bash export project svn clone bare repositoryi paste export bare repository directory agit add ai get list message sayinglf replace crlfwhat ramification conversion net solution visual studio
+1
+use weak pointer delegation
+ca nt understand correct define delegate weak pointer property nonatomic weak i d delegate ca nt realize be nt necessary retain reference delegate do nt want object use delegate deallocate thus would prefer use strong reference weakin many case delegate object instance class create case create weak reference would great solution avoid retain cycle choose totally different object delegate search question stack overflow ca nt find something help fully understand situation
+1
+jquery detect div certain class add dom
+I m use bind event divs get create page load work fine click mouseenter need know new div class myclass add I m look # mycontainer wascreated function dosomethe myclass I have manage write entire app without plugin want keep waythank
+1
+git recover delete file commit make delete
+delete file commit yet want reset workspace recover file git checkout delete file still missingand git status show # branch master # change commit # use git reset head file unstage # # delete ccpropertie # delete store readme # delete store ccproperties#why do nt git checkout reset workspace head
+1
+final array java
+follow code java use final array string question itfinal public class main public static final string constant_array never change public static void main string args int x 0 x constant_arraylength x++ systemoutprint constant_array x + display follow output consolei never changethe follow code also go without questionfinal public class main public static final string constant_array never change public static void main string args constant_array never change error assign final variable constant_array int x 0 x constant_arraylength x++ systemoutprint constant_array x + obviously comment line cause specify error try reassign declare final array type stringwhat follow codefinal public class main public static final string constant_array never change public static void main string args constant_array 2 always compile fine int x 0 x constant_arraylength x++ systemoutprint constant_array x + display always change mean could manage modify value final array type string ever modify entire array way without violate rule final
+1
+python anonymous class
+I m wonder python anything like c # anonymous class feature clarify here sample c # snippetvar foo new x 1 2 var bar new 2 x 1 fooequal bar truein python would imagine something like thisfoo record x 1 2 bar record 2 x 1 foo bar # truethe specific requirement able create object specify field expression context eg usable lambdas place statement be nt allow additional external declaration ability access individual component name via normal member access syntax foobar create object also implement structural comparison component name position tuple particular tuple be nt component name class be nt require declaration dict be nt undesired foo bar syntax access componentsnamedtuple be nt still require name even define type inline comparison positionbase namebased particular def foo return namedtuple foo x x 1 2 def bar return namedtuple foo x x 1 2 foo bar # false field compare order name # true would desire insteadi know write thing python need would like know there s anything like python standard library popular thirdparty library edit sake here singleexpression solution combine two informative answer ken alanlcode yield structural equality without extra outside declarationstype _ _ init _ _ lambda self kwargs self__dict__update kwargs _ _ eq _ _ lambda self self__dict _ _ other__dict _ _ x 1 2 technically satisfie requirement question sincerely hope noone ever use definitely wo nt
+1
+generic way detect html form edit
+tabbed html form upon navigate one tab current tab datum persist db even change datai would like make persistence call form edited form contain kind control dirtying form need type text choose date calendar control would also qualifyone way achieve would display form readonly mode default edit button user click edit button call db make irrespective whether datum modify well improvement currently exist would like know write generic javascript function would check control value modify

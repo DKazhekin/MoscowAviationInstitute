@@ -1,0 +1,642 @@
+1
+copy paste function programmatically iphone
+textview text copy button view user enter text press copy button need copy text paste text wherever wantsi know default copy paste menucontroller io want functionality button clicki think uipasteboard functionality not know use please help
+1
+need read android sensor really fast
+issuei develop application whichnee new acceleration datum every 5millisecondmy approachi create remote servicewhich read accelerationdata sensormanageri also set read rate todelay fast initialize thesensormanagerthen use ipc communicate mymain application get thesereadingproblemif put log insideonsensorchange event receive anew sensor datum every 20 ms time need datum every 5 msquestion well method readthe senor data fasteris way poll thesenor datum rather wait forthe event handler trigger theeventplease help find well solution read datum 5 ms time poll acceleration datum
+1
+time since ago library android java
+suggestion good library android java display time since eg 10 minute ago 5 day ago
+1
+good way tell python program anything read stdin
+want program one thing execute like thiscat something my_programpyand another thing run like thismy_programpybut read stdin wait user input want see anything read try read stdin
+1
+100 width background image auto height
+currently work mobile landing page company really basic layout header image product always 100 width design show always go edge edge depend width screen height image obviously adjust accordingly originally img css width 100 work great realise like use medium query serve different image base different resolution let say small medium large version image example know can not change img src css figure use css background image oppose img tag htmli can not seem get work properly div background image need width height show background obviously use width 100 use height put random fix height like 150px see top 150px image nt solution not fix height play find height test 150px use backgroundsize 100 fit image div correctly use recent css3 project aim solely mobileive add rough example please excuse inline style want give basic example try make question little clearerdiv idimagecontainer div idimage stylebackground url imagejpg norepeat width 100 height 150px backgroundsize 100 div divdo maybe give container div percentage height base whole page look completely wrongalso think css background well way maybe technique serve different img tag base device screen width general idea landing page template use numerous time different product image need make sure develop good way possiblei apologise little longwinde back forth project next like get little thing thank advance time much appreciatedregard
+1
+use param keyword delegate
+like define delegate take couple date unknown number parameter use param keyword return list object funcdatetime datetime param int listobjectvisual studio not like syntax making think not allow anyone tell
+1
+appdelegate know use
+begin work iphone app know put stuff appdelegate versus custom class rule type analogy another programming language like python php use appdelegate like pattern
+1
+android good practice return value dialog
+correct way return value call activity complex custom dialog say text field date time picker bunch radio button etc plus save cancel buttonsome technique see web includepublic datum member dialogderive class read activitypublic get accessor launch dialog intent oppose show plus handler dialog class take input various control bundle pass back activity listener hit save bundle pass back use returnintent listener activity process input controls dialog eg timepicker datepicker listener really activity scheme practically work activityone listener activity save button activity directly interrogate control dialog activity dismisse dialogplus already forget particular technique consider canonically correct good practice method
+1
+print data byte array character
+byte array hash value message consist negative value also positive value positive value print easily use char byte statement get negative value
+1
+way get c # compiler emit error switch enum_val miss case statement
+realize add value list musthandle value enum not catch runtime know c # compiler really powerful come reflection introspection type wonder way force switch case statement cover possible enum valuesexampleenum color red blue green yellow color c switch c case colorsre error red color break case colorsblue case colorsgreen error blue green handle well break whoop error colorsyellow unhandle even error default colorsyellow unhandledi want compiletime solution
+1
+get height entire document javascript
+document can not get height document position something absolutely bottom additionally paddingbottom seem nothing page page height return case pointhttp fandangocomhttp paperbackswapcomon fandangojquery document height return correct valuedocumentheight return 0documentbodyscrollheight return 0on paperback swapjquerys document height typeerror document nulldocumentheight return incorrect valuedocumentbodyscrollheight return incorrect valuenote browser level permission trick
+1
+mean variable name
+recently read sign allow java variable name special meaning unfortunately not mention special meaning istherefore ask special meaning variable name javahere exact quote java introduction problem solve programmingfrom walter savitchjava allow dollar sign symbol appear identifi identifier special meaning use symbol identifier
+1
+put input element line label
+would like put label input typetext line would like input width fill remain width contain element regardless length label text see first image try use width auto input seem static width also try width 100 move input new line see second image achieve use css
+1
+set cookie header xmlhttprequest javascript
+try set cookie xss request use xmlhttprequesti find xmlhttprequ specification section 4625 seem suggest set cookie cookie2 header allow hope work aroundmy jquery code result query fail cookie setajax type post url url datum soap_inbox_mail_query datatype xml async false beforesend function xhr var cookie credential cookie consoleinfo add cookie + cookie xhrsetrequestheader cookie cookie success function datum textstatus xmlhttprequest error function xhr ajaxoptions thrownerror credential null
+1
+well way generate array letter alphabet
+right doingfor char c c z c++ alphabet c c well way similar scala z
+1
+detect whether file lock another process indeed process
+moment try open file fileshare set none want exclusive accesss file can not get good bet somebody else file lockedthere get well fast way idea try use filestream fs fileopen getlockfilename filemodeopen fileaccessreadwrite filesharenone fsclose file lock catch exception file lock
+1
+javascript set property undefine
+code var 1 b hello c 100 important datum greeting b datum c consoledebug get follow error uncaught typeerror set property greeting undefinedim try something similar associative array not work
+1
+return false javascript
+return false javascript
+1
+menuitemcompatgetactionprovider return null
+try use androidsupportv7widgetshareactionprovider actionbar app follow example android document get issue menu xmlxml version10 encodingutf8menu xmlnsandroidhttp schemasandroidcom apk res android xmlnsmyapphttp schemasandroidcom apk resauto item androidid + action_share androidorderincategory100 androidicon drawable ic_action_share androidtitle string action_share myappshowasactionifroom myappactionproviderclassandroidsupportv7widgetshareactionprovider menuhere code create share action button overridepublic void oncreateoptionsmenu menu menu menuinflater inflater inflaterinflate rmenushare menu menuitem shareitem menufinditem ridaction_share shareactionprovider mshareactionprovider shareactionprovider menuitemcompatgetactionprovider shareitem mshareactionprovidersetshareintent getdefaultintent superoncreateoptionsmenu menu inflater question ismenuitemcompatgetactionprovider shareitem always return null thatwhen comment line share button appear bar nothing click fix question 1 can not solve btw check code menuitemcompatgetactionprovider look like method check menu item implement supportmenuitem interface return fail not could deal
+1
+php strip specific tag html string
+follow htmlhtml body bla bla bla bla div idmydiv text div idanotherdiv even text div div bla bla bla body htmli want remove everything start div idanotherdiv close div
+1
+avoid scientific notation large number javascript
+javascript convert large int scientific notation number become large prevent happen
+1
+reduce space p tag
+page convert pdf page contain number paragraph not fit onto single page could reduce space p tag would help fit possible thank
+1
+html image find
+image html pageif image find server show ugly blank squarei want make image find display nothing default image know definitely serverhow
+1
+write content new window jquery
+web page div element user click print want print content div please note want print content div entire page attempt decide would open new window use javascript go write content div new window question possible jquery currently try followingfunction printclick var w windowopen var html # divtoprintid html write html new window jquery
+1
+new element default constructor throw
+consider follow codeexample_t new example_t 8 class example_t default ctor throw suppose construction 5th element array throw automatic call destructor 4 first element well define behavior
+1
+find javascript jquery difficult get right
+background c pick php mysql html css without much issuebut find javascript jquery surprisingly difficult get rightvery frustratingwhyit seem violate number traditional programming principle eg variable scope undefined variable seem appear nowhere already value associate example jquery doc click function event eventpreventdefault div append default + eventtype + prevent appendto # log exactly event use variable name assume object magically instantiate right stuff use method list jquery apithere seem bunch random rule eg return false stop default action sometimes not work nondeterministic behavior debug eg refresh browser try something get result x js variable watch firebug refresh get result messy look code hard follow happen use firebug chrome developer tool get enough visibilityit seem like everyday random js rule come never see js book tutorial need make javascript jquery deterministic control logical meare resource explain javascript quirk gotchasthank
+1
+check background image load
+want set background image body tag run code like body css backgroundimage http picturede imagepng load function alert background image loading not work make sure background image fully load
+1
+get css value external style sheet javascript jquery
+possible get value external css page element style refer generate yet element generate dynamically jquery method see element css property rely element page way find property set within css rather compute style elementwill something ugly like add hide copy element page access style attribute
+1
+array pass reference default
+read c++ book say thisc++ pass array function referencethe call function modify element value caller original arraysit refer situation like thisint hourlytemperature 24 modifyarray hourlytemperature 24 however vanilla c array pointer work right use c++ reference technique pass pointer value case pointer first element array end result function access full original array like reference actually pass reference rightfrom prentice hall book
+1
+jquery javascript reload current page append querystring
+get dropdown menu form something select need reload current page append querystringhow would go
+1
+change focus particular div
+change focus particular div event via jquery
+1
+proper way comment function python
+generally accept way acceptable # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # create new user#########################################################def add self
+1
+managementobject class show systemmanagement namespace
+try write wmi window form managementobject givin type namespace name managementobject could find errorhere uncomplete codeuse system use systemcollectionsgeneric use systemlinq use systemtext use systemio use systemthreading use systemsecuritypolicy use systemmanagement use systemmanagementinstrumentation namespace consoleapplication2 class program static void main string args managementobject disk new managementobject win32_logicaldiskdeviceidc
+1
+get absolute path current javascript file name
+javascript file name mainjsinside mainj want get absolute path current file something likehttp server app mainjshttp server app script mainjswhat fast way get absolute path
+1
+html code text checkbox
+html code text checkbox edit clear need html number symbol form element checkbox
+1
+android remove back home button action bar
+hi everyone difficutlie try remove back home button action bar getactionbar setdisplayshowhomeenable false disable back button getactionbar sethomebuttonenable false old android phone back button remove two code line however nexu 4 back button still appear disabled please help also add menu item right behave like back home button replace back home button miss
+1
+change name io app
+begin iphone project day silly development code name want change name project since nearly finish sure xcode try obvious change application name infoplist file cause signing process go wrong think app will not launch give launcher errori guess could make new project copy paste everything seem primitive hope civilized solution
+1
+mean auto value css property
+mean auto value css property happen value css property set auto
+1
+send sms shell
+would like able send actual sms message shell use command line rely apk interested send message phone emulator phone example run commandservice call phone 2 s16 1234567890i place call phone phone use command line service list command show ism service can not seem provide correct argument would assume one args pdu string not luck far
+1
+deep copying array use jquery
+possible duplicatewhat efficient way clone javascript object need copy order associative array object use jquery initially try jqueryextend myarray naturally give back object need array really love jqueryextend way good way copy array
+1
+initialize member variable use name constructor argument member variable allow c++ standard
+figure possible initialize member variable constructor argument name show example below#include cstdio#include vectorclass blah stdvectorint vec public blah stdvectorint vec vec vec void printvec unsigned int i0 ivecsize i++ printf vecat printf n int main stdvectorint myvector 3 myvectorat 0 1 myvectorat 1 2 myvectorat 2 3 blah blah myvector blahprintvec return 0 g++ 44 argument wall wextra pedantic give warning work correctly also work clang++ wonder c++ standard say legal guarantee always work
+1
+store javascript local storage object run
+let explain develop javascript application help people develop website will not explicitly go know work superimpose html inline css interface website develop offer variety tool trace image code minifiersi store server js file people access application copy paste small bit html onto page use like thisscript srchttp ajaxgoogleapiscom ajax libs jquery 1102 jqueryminjs scriptscript srcwwwexamplecom applicationjsdiv classapplication divthe html inline css interface insert application div use jquerys html functionit work perfectly apart one thing load time user develop site continually refreshing page result wait 3 second annoying time go application interface loadof course browser cache turn problem dissappear develop site go want cache disabled conundrumthen think use local storage object hold string interface svg graphic html string inline css elabourate workaround developer would use tool not end user thing work beautifully browser still need download script inorder know access locally store image processor speed nt bottleneck bandwidthso think store script local storage object tiny initialisation script run itthe initialisation script would simply retrieve script local stroage object string parse accordingly run itto reiterate question run part can not insert script onto page via html script go run
+1
+right align leave align text html table cell
+cell html table would like part cell content leave justify part right justify possible
+1
+access window window name
+open window use windowopen myurlhtml windowname width100 height100 refer new window page open use windowname question specifically aware could save reference handle use var mywin windowopen not care situationthanks dave
+1
+apply css style element except specific
+css code need style div iddiv1 actually need inequality operator equal fontsize40px stylehtml codebody divabc div divdef div div iddiv1ghi div bodythe css nt work intendedi actually want define style divelement except one iddiv1how
+1
+c++ template function inside template class
+code template class class myclass public template class u void foo u ainvoke want form template class class myclass public template class u void foo template class void myclasstfoo u ainvoke right syntax
+1
+incomprehensible function signature return reference array n object
+come across follow signaturedouble rotate_vec double val 4 4 comment claim accept return array four element first reaction even look standard c++ yet compilesdouble rotate_vec double val 4 4 return val int main double ar 4 1 2 3 5 rotate_vec ar return 0 c++ would read can not return array function pointer
+1
+tell browser tab active
+possible duplicatei way detect browser window currently active function call every second want run current page foreground ie user not minimize browser switch another tab serve purpose user nt look potentially cpuintensive not want waste cycle backgrounddoe anyone know tell javascriptnote use jquery answer use fine
+1
+dynamically arrange element around circle
+look function arrange element around circleresult something like
+1
+int unsigned int conversion
+amazed know can not convert sign unsigned int castingint 62 unsigned int j unsigned int thought already know since start use cast can not
+1
+class constructor
+piece code example rest method look bottom maze class instantiate usingmaze labyrinth new maze andsystemoutprintln labyrinth print grid arrayis legit think class need constructor print 2d grid arraymaze classpublic class maze private final int try 3 private final int path 7 private int grid 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 1 1 1 0 1 1 1 1 0 0 1 0 0 0 0 1 0 1 0 1 0 1 0 0 1 1 1 0 1 1 1 0 1 0 1 1 1 1 0 1 0 0 0 0 1 1 1 0 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 public string tostre string result n int row 0 row gridlength row++ int column0 column grid row length column++ result + grid row column + result + n return result
+1
+check isnumeric
+possible duplicatehow identify string contain number vb isnumeric function something similar c # get around write code int32parse txtmytexttexttrim 0 wonder well way
+1
+add icon alert dialog item
+use alertdialog see code want put image textfor example email icon text email facebook icon text facebook etcuse follow code add icon text valuefinal charsequence item email facebook twitter linkedin alertdialogbuilder builder new alertdialogbuilder morethis buildersettitle share appliction buildersetitem item new dialoginterfaceonclicklistener override public void onclick dialoginterface dialog int item item 0 else item 1 else item 2 else item 3 alertdialog alert buildercreate alertshow
+1
++ selector img possible
+try select img inside selector know find use find img possible img optimal way thisoriginally codea classpicture hreftesthtml img srcpicturejpg altawesome
+1
+multiline string insert use jquery
+# addselect click function # optionsform hello world work # addselect click function # optionsform tr tdinput typetext classoptionfield valueoption td td ul classoption liselectoptionvalue option select li ul td tr something like not chrome get error unexpected token illegal googling discover teeny brain not know much javascript multiline add end line yet get error unexpected identifierid like difficult make
+1
+value 0 return true java
+follow conditionif 0 value return true condition javai unable think value consider twos complement notation javai would also love algebraic proof whatever answer condition context java
+1
+html form action methodpost methodpost
+difference use noncapticalize post capitalize post form action method want strictly follow w3c html specificationthis difference run modern browser though
+1
+write program c++ delete execution
+write program c++ delete execution
+1
+align center text html table row
+use html table want align text td center cellhow align text horizontally vertically center
+1
+create semitransparent instruction page android
+new android try work problem last 2 day could find solution help highly appreciated create semitransparent page instruction use app calorie counter android market
+1
+ecmascript
+visual studio set script type javascript come option intellisensea quick google search come lame result lead believe not terribly popular usewhat anyone use script typetext ecmascript
+1
+variable number argument pass function
+similar way use varargs c c++fn b fn b c
+1
+css padding increase size element
+try give div textarea pad increse size element instead shrink content area inside way achieve try dothank help
+1
+good way countif python
+want count many member iterable meet give condition like way clear simple preferably reasonably optimalmy current good idea aresum meets_condition x x my_list andlen x x my_list meets_condition x first one iterator base presumably fast big list form use testing however depend fact int true 1 somewhat uglythe second one seem easy read different formsdoe anyone well suggestion library function somewhere miss
+1
+jquery match part div
+run unusual situation yesterday nighti need match part let clear examplei divs likediv idsales_info_1 divdiv idsales_info_2 divdiv idsales_info_3 divand jquery go likejquery div#dont_know_what_to_write_here bind click function need match sales_info ignore _ 1 _ 2 _ anything anyone suggest achieve thisthank
+1
+prevent anchor behaviour
+want prevent default behaviour anchor tag use hrefjavascriptvoid 0 link awhich effective solution
+1
+external delaration array
+array define file another use eg ac define array int 1 2 3 4 5 6 7 8 9 bc declare use # define count sizeof sizeof int extern int size arrayint i0 icount i++ printf try compile give error say sizeof cannt use incomplete typecan anybody tell handle case c c++ not want array subscript acthank advance
+1
+remove css top leave attribute jquery
+build draggable map map drag element give leave top attribute value sodiv classmap styletop200px left100px map divi button want remove top left attribute inline style div click possible jquery
+1
+textarea auto height
+want make height textarea equal height text within remove scroll bar htmltextarea idnotesome text textareacsstextarea#note width100 directionrtl displayblock maxwidth100 lineheight15 padding15px 15px 30px borderradius3px border1px solid # f7e98d font13px tahoma cursive transitionboxshadow 05 ease boxshadow0 4px 6px rgba 0 0 0 01 fontsmoothingsubpixelantialiased backgroundlineargradient # f9efaf # f7e98d backgroundolineargradient # f9efaf # f7e98d backgroundmslineargradient # f9efaf # f7e98d backgroundmozlineargradient # f9efaf # f7e98d backgroundwebkitlineargradient # f9efaf # f7e98d jsfiddle http jsfiddlenet tw9rj
+1
+jquery append front top list
+unordered listul litwo li lithree li ulis way prepend unordered list end like thisul lione li litwo li lithree li ulnotice one add front top list
+1
+animate glow effect text
+not really able find good simple tutorial animate glow effecthere something find http jsfiddlenet g3j6v not work not even know look want
+1
+inner div lock low right hand corner outer div
+give follow htmldiv stylewidth 500px height 500px border 1px solid red div stylewidth 200px height 100px border 1px solid green float right verticalalign bottom div divi would like inner div lock low right hand corner outer div need css wise make happenthanksjohn
+1
+change style alert box
+need change style ok button alert boxhead script typetext javascript function show_alert alert hello alert box script headbody input typebutton onclickshow_alert valueshow alert box body
+1
+strip php variable replace white space dash
+convert php variable company name mycompanymynamei need make lowercase remove special character replace space dash
+1
+heavy usage python google
+google heavy usage python matter taste give competitive advantage
+1
+find picture actually take c # run vista
+windows xp fileinfolastwritetime return date picture take regardless many time file move around filesystemin vista instead return date picture copy camerahow find picture take vista windows explorer field refer date take
+1
+conversion systemarray list
+last night dream follow impossible dream someone tell otherwise hence would like know possible convert systemarray listarray int arraycreateinstance typeof int 5 intssetvalue 10 0 intssetvalue 20 1 intssetvalue 10 2 intssetvalue 34 3 intssetvalue 113 4 tolistint lst intsoftypeint work
+1
+java userdir property exactly mean
+want use userdir dir base dir unit test create lot file correct property point current work directory eg set cd command
+1
+android long click button perform action
+want use button perform 2 different methodsone method user single click second method different user long click iti use single short click work great button downselecte button findviewbyid riddownselecte downselectedsetonclicklistener new onclicklistener public void onclick view v method try add longclicklistener not workappreciate idea solve thisthank
+1
+check see resource exist android
+build way check see resource exist leave something like followingboolean result int test mcontextgetresource getidentifi my_resource_name drawable mcontextgetpackagename result test 0
+1
+check value exist datatable
+datatable two column author booknamei want check give string value author already exist datatable build method check like array arraycontain
+1
+displayinline vs displayblock
+basic difference cssdisplayinlineand thisdisplayblockuse separately element get result
+1
+const string vs static readonly string c #
+c # difference betweenstatic readonly string mystr andconst string mystr
+1
+unit measure conversion library
+well elegant way abstract conversion unit measure client base userpreferred unit measure settingfor example let say user preferred unit measure metric user bs preference imperialnow let say calculate area something meter square go display value need use different conversion factor user eg 1 meter 109361 yard say calculate fluid volume ml user bs view get calculate use conversion 236588237 ml 1 us cupis exist javascript library anyone know handle trivial uom conversion
+1
+deletion start end string will not work properly java
+follow file represent booksbook isbn3titleenglish1publishdate1 12 2015pagecount200author 12 11 john book isbn5titleenglish2publishdate1 12 2015pagecount200author 12 11 john2 book isbn6titleenglish3publishdate1 12 2015pagecount200author 12 11 john3 try delete second book file use functionthe funtionpublic static void removelinefromfile string file string start string end try file infile new file file construct new file later rename original filename file tempfile new file infilegetabsolutepath + tmp bufferedreader br new bufferedreader new filereader file printwriter pw new printwriter new filewriter tempfile string line null boolean flagtrue read original file write new unless content match datum remove line brreadline null linetrim equal start flagfalse linetrim equal end flagtrue flag linetrim equal end pwprintln line pwflush pwclose brclose delete original file infiledelete systemoutprintln could delete file return rename new file filename original file tempfilerenameto infile systemoutprintln could rename file catch filenotfoundexception ex exprintstacktrace catch ioexception ex exprintstacktrace function callpublic static void main string args removelinefromfile efiletxt book isbn5 book delete seperator also delete book isbn3titleenglish1publishdate1 12 2015pagecount200author 12 11 john book isbn6titleenglish3publishdate1 12 2015pagecount200author 12 11 john3 get follow result insteadbook isbn3titleenglish1publishdate1 12 2015pagecount200author 12 11 john book isbn6titleenglish3publishdate1 12 2015pagecount200author 12 11 john3
+1
+find vertical distance top px element use jquery
+find vertical distance top page element exist dom use javascript jqueryive something likeul lione li lione li lione li lione li li classtestone li lione li ulfor example want find vertical distance top page li#t elementi try scrolltop always come 0
+1
+php get late file addition directory
+get late file name file path add directory
+1
+place actionbar item main actionbar bottom bar
+google+ app layout action bar item main action bar bottom currently use androiduioptionssplitactionbarwhennarrow place item bottom bar place item top bottom
+1
+prevent linebreak span element
+span element want display without line break
+1
+jquery trigger event click outside element
+document click function evt var target evtcurrenttarget var inside menuwraper target inside alert bleep try figure make user click outside certain div menuwraper trigger event realize make every click fire event check click currenttarget object select menuwraper however not work currenttarget html object menuwraper object object confuse
+1
+closing application
+good practice close c # applicationi read useenvironmentexit 0 applicationexit differencefurthermore regard environmentexit 0 use exit code work java never fully understand purpose role play exiting application c #
+1
+call base class constructor derive class java
+class followspublic class polygon extend shape private int noside private int lenght public polygon int point center int noside int length super center thisnoside noside thislenght length regular polygon polygon whose side equal constructor regular polygonpublic regularpolygon extend polygon constructor
+1
+findviewbyid return null
+first yes read thread topic site see little frustrated come advice use androidid instead xml file didfrom learn viewfindviewbyid work different activityfindviewbyid handle tooin location_layoutxml useframelayout somepackagemycustomview linearlayout textview androidid + txtlat linearlayout framelayoutin activity dosetcontentview rlayoutlocation_layout custom view class textview tv textview findviewbyid ridtxtlat return null activity work fine maybe activityfindviewbyid viewfindviewbyid difference store context pass custom view constructor locally triedtextview tv textview activity context findviewbyid ridtxtlat also return nullthen change custom view extend viewgroup instead view change location_layoutxml let textview direct child custom view viewfindviewbyid work suppose suprise not solve anythingso heck wrong ill appreciate comment
+1
+jquery video tutorial resource
+place find jquery video tutorial novice level master level book saw mostly assume familiar css syntax video tutorial resource css would awesome
+1
+int hex string
+need convert int hex stringwhen convert 1400 578 use tostre x tostre x2 need like 0578 anyone provide iformatter ensure string 4 char long
+1
+replace uiviewcontroller uinavigationcontroller hierarchy
+iphone app use standard implementation uinavigationcontroller app navigationi try figure way replace view controller hierarchyin word app load rootviewcontroller user press button app push firstviewcontroller user push another button navigate app secondviewcontroller use navigate another view controller thirdviewcontroller however want backbutton thirdviewcontroller pop back firstviewcontroller essentially user push thirdviewcontroller would like replace secondviewcontroller navigation hierarchyis possible know use three20 case nevertheless possible three20 certainly use straight sdk call anyone thoughtscheer brett
+1
+store 64 bit integer two 32 bit integer convert back
+pretty sure matter bitwise operation entirely sure exactly search return back 64 bit vs 32 bit
+1
+parse hex decimal int python
+string hex number prefix 0x decimal number without special prefix except possibly minus sign 0x123 base 16 298 base 10how convert int long pythoni not want use eval since unsafe overkill
+1
+net stringformat add commas thousand place number
+want add comma thousand place number stringformat
+1
+subtract date time javascript
+field grid contain date time need know difference current date time could good way
+1
+put jquery script tag
+documentation see jquery script tag beneath title head go site initializr template first top head drop bottom body know right body two right
+1
+override automatic property
+since thispublic int myint get set equivalent toprivate int _ myint public int myint get return _ myint set _ myint value make automatic property virtualpublic virtual int myint get set override property child classpublic override int myint get return somevar set somevar value child class unwelcome hidden allocation _ myint
+1
+html table within table valid
+html valid table inside table table tr td table tr td td tr table td tr tr tr table
+1
+javascript call private method prototype method
+sure must pretty common question scour internet several hour find answer questionsuppose interface call mammal every mammal able sleep eat future may throw exception mammal class force child implement function function mammal mammalprototypeeat function mammalprototypesleep function suppose dog class implement mammal classfunction dog dogprototype new mammal dogprototypeeat function dogprototypesleep function dog eat function complicated would like use helper function able figure good way point consideration helper function never call outside dog class ideally privatethe eat function access private function prototype access private function could put helper function privalage function would still public function ie everyone right call itit would part prototype every dog would need helper function lot dog seem inefficient make eat function privalige function order prototype inheritance work need part prototype question call private function prototype function generally object child object inherit another object parent object child method use helper function possible make private
+1
+run java code online
+codepadorg allow run c c++ etc code online java site use java
+1
+difference return return
+function return 1 function b return 1 test code chrome console return 1function c return 1 function return 1 also test code function return 1so difference use return return
+1
+get application icon package name
+try various solution stack overflow luck wanti know package name different applicationsi want get application icon package nameshow icon image viewfor example package name comexampletestnotification get app icon show imageview
+1
+use object literal constructor function
+get confused way create object javascript seem least two way one use object literal notation use construction function advantage one
+1
+clone not clone select value
+not expect follow test fail clone value checktest clone retain value select function var select select append option val 1 append option val 2 select val 2 equal select find optionselecte val 2 expect 2 var clone select clone equal clone find optionselecte val 2 expect 2 right
+1
+compare float nan comparison nan always return false
+float value set nan see watch window can not figure detect codeif fvalue floatnan return false even though fvalue nan
+1
+mediaplayer setdatasource well use path filedescriptor
+let say full path file well approach loading file mediaplayer string filepath somepath somefilemp3 mediaplayersetdatasource filepath orstre filepath somepath somefilemp3 file file new file filepath fileinputstream inputstream new fileinputstream file mediaplayersetdatasource inputstreamgetfd inputstreamclose matter simply use path seem easy reason extra work use filedescriptor
+1
+check custom protocol support
+use software register protocol run application browser link likecustomprotocol do_thisbut way check custom protocol support user system would like ask user install software firstegif canhandle customprotocol run software else ask install editi know protocollong property work ie
+1
+split list pair possible way
+list say 6 element simplicity l 0 1 2 3 4 5 want chunk pair possible way show configuration 0 1 2 3 4 5 0 1 2 4 3 5 0 1 2 5 3 4 b b order pair important ie 0 1 2 3 4 5 0 1 4 5 2 3 total number configuration 135 n1 n length listhow write generator python give possible configuration arbitrary n
+1
+convert base2 binary number string int
+simply like convert base2 binary number string int something like 11111111frombinarytoint 255is way python
+1
+get image height width integer value
+try use php function getimagesize unable extract image width height integer valuehow achieve
+1
+define list like listint string
+need two column list likelistint string mylist new listint string saysuse generic type systemcollectiongenericlistt require 1 type argument
+1
+test io device telephone capability
+want offer phone support app press button iphone user display phone number ipad ipod touch user rather detect device user well way query hardware see telephony capability would continue work ipad 3 g one day open voice callsi aware limit app device uirequireddevicecapabilitie key look restrict platform detect capability
+1
+objective c check object particular property message
+wat something like thisif viewcontrollermapview viewcontrollermapview somemethod however mapview class variable crash check mapview exist
+1
+text border css html
+like div look like thisis possible html + css also animate div jquery div hide would like title top line show
+1
+clear inlineblock
+havecenteredholder marginleft auto marginright auto clear leave display inlineblock div classcenteredholdermisc content 1 divdiv classcenteredholdermisc content 2 divdiv classcenteredholdermisc content 3 divi want one max per line actually possible somehow iphone html5 app old browser restriction not issue
+1
+call method current view controller app delegate io
+two view controller buildingsviewcontroller roomsviewcontroller use function within app delegate call upload upload function basically http request successful unsuccessful trigger uialertview work finethe part struggle within app delegate connectiondidfinishloade method need able basically refresh current view controller via perhaps viewwillappear method view controller inside viewwillappear function view controller code determine button bottom toolbar want upload button toolbar view controller automatically remove uploading via app delegateive try viewcontroller viewwillappearyes within connectiondidfinishloade method app delegate never get calledi hope clear enough help greatly appreciatedthank
+1
+sysargv 1 meaning script
+currently teach python wonder reference example simplify term sysargv 1 represent simply ask input # usr bin python31 # import module use sys standard oneimport sys # gather code main functiondef main print hello sysargv 1 # command line args sysargv 1 sysargv 2 # sysargv 0 script name ignore # standard boilerplate call main function begin # programif _ _ name _ _ _ _ main _ _ main
+1
+reset remove css style element
+sure must mention ask search age luck terminology must wrongi vaguely remember tweet see ago suggest css rule available would remove style previously set stylesheet particular elementa good use example might mobilefirst rwd site much styling use particular element smallscreen view need reset remove element desktop viewa css rule could achieve something likeelement none eaxmple usage mobile first element margin 0 10 transform translate3d 0 0 0 zindex 50 display block etc etc medium screen minwidth 980px element none could quickly remove reset styling without declare every propertymake sense
+1
+android prevent double click button
+good way prevent double click button android
+1
+get jquery version inspect jquery object
+way find version jquery use inspect jquery object jquery dynamically get add page see reference markup inspect browser console
+1
+array n pointer function return pointer function
+ask interviewi really get confusedhow declare array npointer function returningpointer function returningpointer characterscould anybody please help
+1
+c # compiler access static method nonstatic context
+code public class anything public int datum get set public class mygenericbaset public void instancemethod datum job public static void staticmethod datum job member public seal class usefulcontroller mygenericbaseanythe public void proxytostaticmethod staticmethod null non derive member public class container public usefulcontroller b get set public class demo public static void test var c new container cbinstancemethod null work expect cbstaticmethod null nt work static method call object rather type get static method base type cbproxytostaticmethod work expect compiler angry understand error message not know solve try get type rather object make static method call not find way correctly moreover result something elegant allbasically genericbase class framework lot static method instance method controller type class extend itthe container group logical relate controllersintereste thing java version code compile correctly warn execution correct toodoe exist design pattern solve thank input find way get rid problem thank answer seem work tell side effect right know public class genericbaset mygenericbaset create instance call every base static method public seal class usefulcontroller genericbaseanythe non derive member
+1
+show android avd manager eclipse
+instal andorid sdki instal android plugin alsobut eclipse show android avd manager also show android windowspreference alsohelp
+1
+method getsystemservice string undefined type listen
+try check comandroidmusic run get follow error line thisgetsystemservice contextactivity_service errorthe method getsystemservice string undefined type listencode public boolean ismusicrunne activitymanager activitymanager activitymanager thisgetsystemservice contextactivity_service listrunningappprocessinfo procinfos activitymanagergetrunningappprocesse int 0 procinfossize i++ procinfosget processnameequal comandroidmusic toastmaketext null music run toastlength_long show could let know wrong would great
+1
+nsindexpath
+exactly job nsindexpath understand indexpath variable use refer cell want display value store mean internal process happen setup indexpath variable
+1
+javascript locationhref open new window tab
+javascript file third party developer link replace current page target want page open new tabthis farif command lightbox locationhrefhttps supportwwforguk earth_hour indexphptypeindividual anyone help
+1
+cross browser way set stylefloat javascript
+usually need set style attribute javascript say something likeelementstyleattribute value slight variation usually attribute name similar albeit camelcase version html attribute namethe problem float attribute not work float keyword javascript stylefloat make javascript page break look msdn say use stylefloat like soelementstylestylefloat value work ie firefox safari chrome opera none seem answer go wrong simple answer
+1
+make shadow borderbottom
+need apply border shadow borderbottom css3 want apply css3 shadow bottom possible
+1
+python open builtin function difference mode a+ w w+ r+
+python builtin open function exact difference mode w w+ a+ r+in particular documentation imply allow writing file say open file append writing update specifically define term mean
+1
+get element name start string
+html pagei would like extract element name start q1_how achieve javascript thank
+1
+difference keydown keypress net
+difference keydown keypress event net
+1
+good way completely destroy session even browser close
+enough session_start must start session destroy itif isset _ session unset _ session session_unset session_destroy user select log menu quit browser want totally remove existence session _ session
+1
+get div float bottom container
+float image inset box top container use floatright leave many time recently hit need float div bottom right corner another div normal text wrap get float text wrap leave thought must relatively easy even though float bottom value not able use number technique search web not come anything use absolute positioning not give correct word wrap behaviouri thought would common design apparently not nobody suggestion ill break text separate box align div manually rather precarious hate every page need
+1
+associate nib xib file uiview
+subclass uiview want put button label associate uiview subclass nib file
+1
+similar jquery close traverse descendant
+function similar jquery close traverse descendant return close onesi know find function return possible match closestedithere definition close least first place child traverse individual child traversedin example give id2 close close descendant idfindmyclosestdescendantdiv idfindmyclosestdescendant div div classclosest id1 div div div classclosest id2 div divplease see jsfiddle link
+1
+display html form inline element
+probably basic html css questioni simple onebutton form would like display inline inside paragraph textpread sentence form styledisplayinline input styledisplayinline typesubmit valueor push button form peven though form styledisplayinline attribute get linebreak form way get rid itcan form element appear inside p
+1
+find java c # converter
+need convert java 15se app c # 20doe anyone know tool preferably free open source
+1
+double mean c #
+possible duplicatec # newbie difference bool bool hi read code nunit project assert class come across particular construct public static void areequal double expect double actual double delta assertdoublesareequal expect double actual delta null null function second input parameter enter doublethe interesting thing code compile without issue vs2010 c # 40 anyone know throw error double consider valid keyword special significance
+1
+force application restart first activity
+unknown reason can not get application leave properly push home button app icon resume app would like force application restart first activityi suppose something ondestroy maybe onpause not know
+1
+# import nsobjcruntimeh use objc_msgsend
+like import runtime header use objc_msgsend gettingerror nsobjcruntimeh file directoryshould add something header search path
+1
+sort list dot sparate number like software version
+list contain version string thingsversions_list 112 100 133 1012 102 would like sort result would something like thisversions_list 100 102 1012 112 133 order precendece digit obviously leave right descend 123 come 223 222 come 223how python
+1
+mean parse error syntax error unexpecte t_paamayim_nekudotayim
+t_paamayim_nekudotayim sound really exotic certainly absolutely nonsense trace line codephpclass context protect config public function getconfig key problem somewhere cnf thisconfig return cnfgetconfig key function _ _ construct thisconfig new config constructor create config object classfinal class config private static instance null private static config public static function getconfig key return selfconfig key public static function getinstance selfinstance selfinstance new config return selfinstance private function _ _ construct include configuration file include _ _ root_include_path sys config configphp define config array thisconfig config idea nt work error mean
+1
+set height div dynamically
+web application page contain div autowidth depend width browser windowi need autoheight object div start 300px top screen height make stretch bottom browser screen max height container div would minimumheight div believe restrict css use javascript handle resizing divmy javascript not nearly good easy script could write would meedit div house control overflow handle implement scroll bar
+1
+php file_get_content amp
+try use phps file_get_content url thing url examplefile_get_contents http wwwgooglecom var11var22 automatically make request wwwgooglecom var11amp var22 prevent happen
+1
+max thread number one application
+wanna know max thread number one applicationyou know threadactivecount return number active thread run thread group subgroup know max number thread create current activity limit active threadsi use thread http connection catch http responsethank advance
+1
+viewport argument value devicewidth key width invalid ignore note
+get error javascriptviewport argument value devicewidth key width invalid ignore note separator viewport value list commaseparatedhow fix
+1
+get class name full path
+aware use context method getclass getname get string represent full class name like compackage1package2mainactivity get last part class name case would mainactivity string simple split method maybe well way reliable
+1
+check c # variable empty string null
+possible duplicateeasi way write null empty look simple way check variable equal null one function check null
+1
+tell button click php form submit
+several button page sure tell one clickedhere markup two buttonsinput typesubmit idbtnsubmit valuesave change input typesubmit idbtndelete valuedelete
+1
+not copy constructor call
+possible duplicatewhat copy elision return value optimization difficulty understand follow piece code copy constructor called#include iostreamclass test public test int stdcout test stdendl test const test stdcout test const test stdendl int main test test test test2 test 3 return 0 someone explain constructor call copy constructor thank
+1
+python object__repr _ _ self expression
+look builtin object method python documentation interested documentation object__repr _ _ self sayscalle repr builtin function string conversion reverse quote compute official string representation object possible look like valid python expression could use recreate object value give appropriate environment possible string form useful description return return value must string object class define repr str repr also use informal string representation instance class requiredthis typically use debug important representation informationrich unambiguousthe interesting part wasif possible look like valid python expression could use recreate object value sure exactly mean say look like expression use recreate object mean example sort expression could use actual expression execute eval etc recreate object rehase actual expression use pure information purposesin general bit confuse exactly put
+1
+unset element css attribute use jquery
+set css value specific element use # element css backgroundcolor # ccc want able unset elementspecific value use cascade value along line # element css backgroundcolor null syntax not seem work possible use another syntaxthank advanceedit value not inherit parent element original value come elementlevel selector sorry confusion
+1
+set dynamic create layout
+want give view textview imageview etc layout programmetically create good way set
+1
+problem use pow c
+follow bit code work cint pow 2 3 printf dn res doesntint 2 int b 3 int pow b printf dn even try double 2 double b 3 double pow b printf fn res get anundefine reference powwhat wrong
+1
+make division 2 int produce float instead another int
+another bruce eckel exercise calculate velocity v integer make division crank floatclass calcv float v float calcv int int v return v end calcv public class passobject public static void main string args int distance distance 4 int 3 float outv calcv v new calcv outv vcalcv distance systemoutprintln velocity + outv end main end class
+1
+equivalent push pop array
+try add remove reference item array create main java file trouble figure correct syntax actionscript push pop add remove item array equivalent android
+1
+jquery select iframe child
+use editarea library jquery needhttp wwwcdolivetcom indexphppageeditareasess2b8243f679e0d472397bfa959e1d3841so html iframe tag editarea use need access something like jquery iframe textarea keydown function e number 17 number really ewhich number something alert try look like detect key work selector document therefore rest function work pick iframe textarea keydownany idea thank
+1
+get php _ get array
+possible value _ get arrayif try send link http link foophpid1id2id3 want use _ get php side value array right echo _ get return 3 last header link suggestion
+1
+reorder list python
+list b c e reorder item arbitrary manner like c b e edit not want shuffle want reorder predefine manner example know 3rd element old list become first element new list
+1
+get full source code rtjar
+search source code rtjar oracle jre jdk 6 update 22the srczip include delivery contain source example sun eg sunreflectreflection package missingwhere get complete srczip
+1
+replace part string php
+try get first 10 character string want replace space _ text substr text 0 10 text strtolow text sure nexti want stringthis test stringbecomethis_is_th
+1
+major difference objectivec c c++
+begin learn objectivec find background c not useful starting point dabble c++ understand basic c++ paradigms syntax fwiw extensive experience java higherlevel language like javascript actionscript interested explore ios development bit wary focus language useful single vendor platform like know concept learn proceed objectivec transfer knowledge c c++im interested mainly core language concept information portability framework targetable platform etc welcome well
+1
+scroll element use javascript
+try move page div elementi try next code availdocumentgetelementbyid divfirst stylevisibility visible documentgetelementbyid divfirst styledisplay block
+1
+easy way get view string int
+new android java sorry basic question try find solution forums google couldnti 24 button layout button something similar want create generic function first need know name xml buttonthis xml code button button androidid + add_04 androidlayout_width42dp androidlayout_heightwrap_content androidlayout_gravitycenter androidlayout_marginleft15dp androidbackground xml zbuttonshape androidonclickonclick androidtext string mas set androidonclickonclick buttonsin activity create new function onclickthis code triedpublic void onclick view v string name vgetcontext getstre vgetid string name2 contextgetstre vgetid string name3 getstre vgetid string name4 getresource getstre vgetid try get name case add_04 always get false finally find solution follow codeimport javalangreflectfield string name5 null field campos ridclassgetfield field fcampo try vgetid fgetint null name5 fgetname break catch exception e eprintstacktrace question easy way get idthank advance
+1
+jquery jqueryfninitprototype jqueryfn
+little extended question jquery dojqueryfn jqueryprototype init function f1 function jqueryfninitprototype jqueryfn simply add f1 etc initprototype aesthetic deep idea
+1
+jquery div nt class x
+jquery need statement see not contain class select thumb hover function stop fadeto normal 10 function stop fadeto slow 03 basically function run hover not want perform fade class select append div mean image full opacity signify select search google luck even though simple question use statement
+1
+difference systemdrawingcolor systemwindowsmediacolor
+basically need two abstraction pretty simple concept
+1
+python 2x gotchas landmine
+purpose question strengthen knowledge base python get well picture include know fault surprise keep thing specific interested cpython interpreterim look something similar learn php landminesquestion answer well know couple borderline horrifyingupdate apparently one maybe two people upset ask question already partially answer outside stack overflow sort compromise urlhttp wwwfergorg project python_gotchashtmlnote one two answer already original write site reference
+1
+initialize char vs int
+possible c++const char ch hello something like possibleint 1 2 3 char ch int plain pointer char assign multiple char int assign multiple intsi know use int x 1 2 3 question
+1
+access map network drive systemiodirectoryinfo
+need create directory map network drive use codedirectoryinfo targetdirectory new directoryinfo path targetdirectory null targetdirectorycreate specify path like servernamedirectory go ok map servernamedirectory say drive z specify path like z failsafter create targetdirectory object vs show debug mode targetdirectoryexist false try targetdirectorycreate throw exceptionsystemiodirectorynotfoundexception could find part path zhowever code work well local directory eg cthe application windows service winxp pro sp2 net 2 running account user map drive qwinsta reply user session session 0 session service
+1
+fade li one one
+want fade nav li one one current code show whole div want fade li one one slight delay document ready function # circlemenubtn click function # dropdownmenu fadein 500 div classsubmenu iddropdownmenu ul idnavbar li first li lisecond li lithird li lifourth li lififth li ul divsubmenu position absolute zindex 1000 color # fff right 5px display none try loop try fade li one iteration success please share ideasupdate rory mccrossans code perfect unfortunately compatible code hide menu click outside document mouseup function e var container # dropdownmenu containeris etarget containerhas etarget length 0 containerfadeout 500 go wrong start learn js jquery please forgive lame question
+1
+remote service vs local service
+dear newbiew android read lot article android service clearly understand defferent local service remote service except local service run process lunching activity remote service run process busy coder guide android development mark l murphy please show different local service remote servicewhat advantage disadvantage use local service advantage disadvantage use remote servicethank good regardsdai son
+1
+disable default sound effect application activity
+application use sound pool button click audio effectthe problem device set audible selection tick button produce two sound system one one timeit seem button property set sound effect enable false system sound hear many button across dozen activity plus add matrix button code rather inconvenient set sound effect enable false manually one sure codeis global way stop audible selection application least one activity
+1
+jquery change name attribute
+get jquery function attempt change name class element class change seem work curious reason try change name element never work document ready function table select live change function var attr attr classname select var rowindex close tr prevall length getjson category getsubcategorie + val function datum datalength 0 # + attr classname select # + attr sel + rowindex # + attr name sel + rowindex never work var position table get 0 var tr positioninsertrow rowindex + 1 var td1 trinsertcell 1 var td2 trinsertcell 1 td1appendchild documentcreatetextnode subcategory var sel documentcreateelement select selname parent_id selid parent_id selsetattribute class unselecte td2appendchild sel datum function getsubcatergorie category # parent_id append option option attr value categorycategory_id text categoryname
+1
+stop handler android
+application handler not stop stop handlerit continue start closing activity code handler new handler override public void handlemessage message msg todo autogenerate method stub superhandlemessage msg imax evnetchangedisplay i++ handlersendemptymessagedelaye 0 5000 else 0 handlersendemptymessagedelaye 0 0000 handlersendemptymessagedelaye 0 000
+1
+io set uiswitch programmatically
+want set uiswitch programmatically would io newbie
+1
+android move back first activity button click
+writing application deal 4 activity let say b c activity invoke b b invoke c c invoke activity button call home button user click home button b c activity application go back activity screen simulate home button case
+1
+table 100 width equal size column variable name
+first quite good web design dynamically create table variable number column determine runtime somebody tell possible html table equal size column fully stretch hint
+1
+keep div bottom another div css
+div idouterdiv idcopyright span idyr 1965 2010 span span idf span span idd span div divi want # copyright bottom # outerhere css # copyright#copyright positionrelative marginbottom0px width672px height20px color#fff # yr marginauto # f positionabsolute right0px textaligncenter thanksjean
+1
+datepicker popup datepicker click edittext
+want show datepicker popup window find example get properly one edittext want click edittext datepicker dialog popup set date date show edittext dd mm yyyy format please provide sample code good link
+1
+objectivec difference null nil
+title say difference null nil example want check string dictionary emptywhich condition use dictionary objectforkey astre nil orif dictionary objectforkey astre isequaltostre orif dictionary objectforkey astre null one right
+1
+java constant declare static
+java constant declare static class foo static final int fii 2 understand use final buy static class variable instance variable
+1
+disable phps easter egg url
+recently find socalle easter egg urls phpthese four query string add end php web page view somewhat hidden image web pagephpe9568f36d42811d2a76900aa001acf42this one interesting display easter egg image either rabbit house sterling hughe rabbit name carmella brown dog grass black scottish terri dog sloppy child handdrawn crayoncolore php logo guy breadstick look like pencil french fry stick mouth like walrus php elephant logoother includephpe9568f34d42811d2a76900aa001acf42 php logo phpe9568f35d42811d2a76900aa001acf42 zend logo phpb8b5f2a03c9211d3a3a94c7b08c10000 php credit shock discover work lot website include think idiotic want disable hear way phpini expose_php can not set runtime ini_set not direct access phpini live server however figure unset xpoweredby header use header unset xpoweredby htaccess header xpoweredby php codeis way disable easter egg get set change main phpini indeed correct way disable url
+1
+mean
+jquery mean use
+1
+trim mean percentage limit python
+try calculate trim mean exclude outli array find module call scipystatstmean require user specifie range absolute value instead percentage valuesin matlab trimmean x percent exactly want counterpart python
+1
+validate css color name
+write jquery plugin accept css color parametersi want validate hex rgb value could regular expression validate 147 valid color name without bloat plugini wonder way attempt apply style maybe jquery catch error browser validedit powtac pantelis come solution miss edge case include full solution var validatecsscolour function colour var rgb div stylecolor#28e32a use non standard dummy colour ease check edge case var valid_rgb rgb 40 227 42 rgbcss color colour rgbcss color valid_rgb colour # 28e32a colourreplace g valid_rgbreplace g return false else return true
+1
+sizeof equivalent reference type
+look way get size instance reference type sizeof value type possible
+1
+private property objective c
+way declare private property objective c goal benefit synthesize getter setter implement certain memory management scheme yet expose publican attempt declare property within category lead error interface myclass nsobject nsarray _ somearray end interface myclass private property nonatomic retain nsarray somearray end implementation myclass private synthesize somearray _ somearray error synthesize allow categorys implementation end implementation myclass end
+1
+jquerys change isnumeric late version
+recent version jquery use check numeric via return isnan parsefloat obj isfinite obj first part parsefloat nanisnan parsefloat infinity true numberthe second part isfinite 2 truebut recent version change change return jqueryisarray obj obj parsefloat obj + 1 0 questionwhat good enough previous version change new one check array
+1
+locationsearch javascript
+hi want know locationsearchsubstre 1 actually see code website alert give result suppose alert location hrefalert locationsearchsubstring 1
+1
+download inapp host content
+follow http wwwraywenderlichcom 21081 introductiontoinapppurchasesinios6tutorialto set apple host inapp purchase list product want download product apple something like void paymentqueue skpaymentqueue queue updatedtransaction nsarray transaction skpaymenttransaction transaction transaction switch transactiontransactionstate case skpaymenttransactionstatepurchase skpaymentqueue defaultqueue startdownloadstransactiondownload void paymentqueue skpaymentqueue queue updateddownload nsarray download nslog paymentques skdownload download download switch downloaddownloadstate case skdownloadstateactive nslog f downloadprogress break void paymentqueue skpaymentqueue queue removedtransaction nsarray transaction start download updatedtransaction updateddownload call apple downloadstate active next apple call removedtransaction without ever actually start download download progress always 0 updateddownload never call downloadstate finishedi not know download never start transaction get remove download finish anybody work sample
+1
+generate random password string requirement javascript
+want generate random string 5 letter az 3 number javascriptive get follow script not meet requirement var char 0123456789abcdefghijklmnopqrstuvwxtzabcdefghiklmnopqrstuvwxyz var string_length 8 var randomstre var i0 istring_length i++ var rnum mathfloor mathrandom charslength randomstre + charssubstre rnum rnum+1
+1
+queryselector queryselectorall vs getelementsbyclassname getelementbyid javascript
+would like know exactly difference queryselector queryselectorall getelementsbyclassname getelementbyidfrom link could gather queryselector write documentqueryselector myclass get element class myclass documentqueryselector # myid get element myid already getelementsbyclassname getelementbyid one preferredalso work xpage dynamically generate colon look like view_id1inputtext1 write documentqueryselector # view_id1inputtext1 not work write documentgetelementbyid view_id1inputtext1 work idea
+1
+get php log stacktrace upon fatal error
+configure php log error development machine show apache error log thu mar 17 182207 2011 error client 1 php parse error syntax error unexpected user troelskn project test bootstrapincphp line 27 thu mar 17 182207 2011 error client 1 php stack trace thu mar 17 182207 2011 error client 1 php 1 main user troelskn project test public indexphp0however production machine ubuntu stacktrace follow error referrer attach message eg would look like thu mar 17 182207 2011 error client 1 php parse error syntax error unexpected user troelskn project test bootstrapincphp line 27 referer http localhost control formatting would much like stacktrace available log
+1
+script tag vs script type text javascript tag
+note duplicate ask different different webserversi wonder difference scriptand script type text javascriptis different different webserversfor example know incorrect provide link w3school look http wwww3schoolscom js tryitaspfilenametryjs_myfirstuse chrome visit w3school realise script tag needhowever offline javascript test realise need thescript type text javascripttag
+1
+jquery valueattr function
+snip page # category_sorting_form_save click function var element # category_sorting_element div element function key value consoleinfo key value consoleinfo cat_id valueattr cat_id execute get0 div classdragable cat_id6 value styleopacity 1 valueattr function consoleinfo cat_id valueattr cat_id wrong try get value divcat_id elementthank eric
+1
+use private class place field performance memory penalty
+review someone code come across private classclass customtype dictionaryint someothercustomtype empty nothing omit customtype use parent class neat course since customtype short thandictionaryint someothercustomtypemy question performance memory implication inner class shortcut performance sensitive application contribute even slightly high memory cpu usage
+1
+make radio button look like button instead
+would like set radio button donation form however want look like button instead circle dialswhat good approach make something like also keep mind work ie8heres far http jsfiddlenet yb8uw donatenow liststyletypenone margin25px 0 0 0 padding0 donatenow li floatleft margin0 5px 0 0 donatenow label padding5px border1px solid # ccc cursorpointer donatenow labelhover background#ddd thank
+1
+change url without reload page
+would like know possible change content url browser without reload pagei use jquery ajax load new part page choose product one direct link would mysitecom product1 product two would mysitecom product2 not want reload site page
+1
+styling form label input
+would like produce follow form stylename email subject message html code isform namemessage methodpost section label fornamename label input idname typetext value namename label foremailemail label input idemail typetext value nameemail section section label forsubjectsubject label input idsubject typetext value namesubject label formessagemessage label input idmessage typetext value namemessage section format moment producingname email subject message would good way keep get muddle float
+1
+jquery create form add element programmatically
+hi need create form add element programaticallyform form form formappend input typebutton valuebutton not seem work right
+1
+include button toast notification
+first know ask android button custom toastthis nearly exact duplicate think warrant new question base fact use app namely gmail ic appear delete message link question say possible include button toast toast focus wrong outdated gmail find way around
+1
+# include h c cpp
+code either c c++ # includescallbackh#ifndef _ callback_h_#define _ callback_h_#include sndfileh#include mainhvoid on_button_apply_clicke gtkbutton button struct user_data_s datum void on_button_cancel_clicke gtkbutton button struct user_data_s datum # endifcallbackc#include stdlibh#include mathh#include configh#include callbackh#include playhvoid on_button_apply_clicked gtkbutton button struct user_data_s data gint page page gtk_notebook_get_current_page gtk_notebook datanotebook include either h c cpp like
+1
+create favorite feature list question get randomize
+hard time correctly implement favorite feature app move list object user able check uncheck something favorite activity move onpause state save list favorite rather complete list boolean marker signal whether something favorite true favorite false favorite obviously upon move onresume state list load view favorite previously markedmy issue think truly come fact list randomize upon initialization sure algorithm try various way point hardly bare look anymoremain activity javapublic class mainactivity extend actionbaractivity global global_main overrideprotecte void oncreate bundle savedinstancestate global_main globalgetinstance overrideprotecte void onresume superonresume sharedpreference set getsharedpreference file_favorite 0 int index 0 index total_question index++ boolean favfromfile settingsgetboolean savedfavorite _ + stringvalueof index false global_mainsetfav index favfromfile overrideprotecte void onpause superonpause sharedpreference set getsharedpreference file_favorite 0 sharedpreferenceseditor editor settingsedit int index 0 index total_question index++ editorputboolean savedfavorite _ + stringvalueof index global_maingetfav index commit edit editorcommit practice java overrideprotecte void oncreate bundle savedinstancestate superoncreate savedinstancestate intent intent getintent selectedsection intentgetstringextra choosesectionchosensection global globalgetinstance selectedsection global classpublic class global private static global global null current total question user choose ex multiplication choose 10 question array equal 10int current_total position first question user choice start ex user choose multiplication multiplication question start question 19 equal 19int current_start position last question user choice end ex user choose multiplication multiplication question end question 24 equal 24int current_end basic question structureclass questionstruct string q string int position original position array boolean favorite array question structuresquestionstruct question new questionstruct total_question userchoice choice question type user select ex multiplication division addition subtraction defaultpublic static global getinstance string userchoice global null global new global globalinitialize globalgetchoice userchoice globalsetquestionsdefault globalrandomize return global public void initialize int 0 total_question i++ question new questionstruct question 0 q question 1 text question 0 answer question 0 position 0 question 1 q question 2 text question 1 answer question 1 position 1 question 2 q question 3 text question 2 answer question 2 position 2 etc etc etc public void setquestionsdefault questionstruct temp new questionstruct int index 0 index total_question index++ int count question index position temp question count question count question index question index temp temp null randomize question within range category user chosenpublic void randomize int index current_end index current_start index generate random number switch random block random rand new random int currentq randnextint current_end current_start + 1 + current_start switch two question block questionstruct temp question currentq question currentq question index question index temp public void setfav int q boolean b question q favorite b public boolean getfav int q return question q favorite might everything pertinent issue apologize leave anything something not make sense feel free ask question still currently middle alter everything get work might copy something not quite add upedit ill also add code favorite button click turn favorite nonfavorite vise versa even though critical work something worry function properly simple someone feel like see turn help isthis also practice question java filepublic void setfavoritebutton globalgetfav tempqq favoritesetbackgroundcolor coloryellow else favoritesetbackgroundcolor getresource getcolor rcolorprimary overridepublic void onclick view v switch vgetid case ridfavorite updatefavorite break public void updatefavorite globalgetfav tempqq globalsetfav tempqq false else globalsetfav tempqq true setfavoritebutton edit might add believe issue algorithmic not randomize feature conjunction favorite fine think think important app useful focus try implement favorite feature time keep randomization time global call
+1
+activity oncreate call phone go sleep
+press sleep button droid activitys oncreate get call happen would os want call oncreate device go sleep way stop least know phone put sleep
+1
+not reload application orientation change
+simply need nothing change screen rotate app display random image first load rotate device select another random image simply make behavior stop
+1
+set focus input field use jquery
+give follow html structurediv classwrapper div classtop hrefhttp examplecom classlinkclick div div classmiddle text div div classbottom form input typetext classpost input typesubmit form divdivwhich repeat several time page set focus input field bottom div user click link top divi currently make bottom div appear successfully click use jquery code can not seem figure set focus input field time link click function parent sible divbottom show thank
+1
+listview choice_mode_multiple use checkedtext custom view
+plenty question use checkedtextview can not make work correctlyi cursoradapter custom view checkedtextview androidid androidid text1 use androidid text1 different question mention use get choice mode multiple freeif something like thisfinal long checkedid mlistviewgetcheckeditemids int 0 mlistviewgetcheckeditemcount i++ logd tag check + checkedid get check ids without issue can not see visual feedback listviewin word logic fine click checkedtextview green tick not show upi read listview src code could not find reference androidid text1 make wonder handle widget check state myselfcan anyone spot androidid text1 use make widget check
+1
+function get file name url
+source code get file name urlfor examplehttp wwwgooglecom apdfi hope get apdfbecause way join 2 nsstring get appendstre add string right side plan check char one one right side string http wwwgooglecom apdf reach char stop check return string fdpa change fdpa apdfsource code nsmutablestre getsubstringafterh originalstre nsstre s0 nsinteger l l s0 length nsmutablestre h nsmutablestring alloc init nsmutablestre ttt nsmutablestring alloc init il1 i0 check char one one right side string http wwwgooglecom apdf reach char stop ttt s0 substringwithrangensmakerange 1 ttt isequaltostring break else h appendstringttt ttt release nsmutablestre h1 nsmutablestre alloc initwithformat autorelease h length 1 i0 nsmutablestre t1 nsmutablestring alloc init t1 h substringwithrangensmakerange 1 h1 appendstringt1 t1 release h release return h1 h1 reuturn coorect string apdf return code call system reportsdouble free set breakpoint malloc_error_break debugi check long time foudn removed code ttt s0 substringwithrangensmakerange 1 everything ok course getsubstringafterh return corrent result expect error reportedi try fix bug hour still cluewelcome commentthanks interdev
