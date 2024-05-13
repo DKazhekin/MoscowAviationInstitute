@@ -5,6 +5,7 @@ This functionality provides methods for solving non-linear systems of equations 
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
+from NumericalMethods.Lab1.Part1 import Linalg
 
 
 # Newton functions
@@ -35,6 +36,7 @@ class Newton:
         self.x2_0 = x2_0
         self.x2_1 = x2_1
         self.eps = eps
+        self.iterations = None
 
     # Jacobi matrix instantiating for derivatives on each function
     @staticmethod
@@ -50,6 +52,10 @@ class Newton:
 
     # Solving function
     def solve(self):
+
+        # Count Iterations
+        self.iterations = 0
+
         # Initial value
         x_prev = np.array([(x1_0 + x1_1) / 2, (x2_0 + x2_1) / 2]).reshape(-1, 1)
 
@@ -58,9 +64,11 @@ class Newton:
         while True:
 
             # New value calculating
-            x_new = x_prev - np.matmul(np.linalg.inv(self.Jacobi(x_prev[0][0], x_prev[1][0])),
+            x_new = x_prev - np.matmul(Linalg(self.Jacobi(x_prev[0][0], x_prev[1][0]), None).inverse(),
                                        np.array([[self.function1(x_prev[0][0], x_prev[1][0])],
                                                  [self.function2(x_prev[0][0], x_prev[1][0])]]).reshape(-1, 1))
+
+            self.iterations += 1
             # Checking constraints
             self.check_constraints(x_new[0][0], x_new[1][0])
 
@@ -82,6 +90,7 @@ class SimpleIter:
         self.x2_0 = x2_0
         self.x2_1 = x2_1
         self.eps = eps
+        self.iterations = None
 
     # Function to get norm of matrix of all derivatives
     @staticmethod
@@ -107,14 +116,17 @@ class SimpleIter:
         return (maximum_jacobian + 1) / 2
 
     def solve(self):
+
+        # Count iterations
+        self.iterations = 0
+
         # Q parameter initialization + checking theorem
         q = self.check_constraints()
-
         x1_prev, x2_prev = ((self.x1_0 + self.x1_1) / 2), ((self.x2_0 + self.x2_1) / 2)
         while True:
 
             x1_new, x2_new = phi1(x2_prev), -phi2(x1_prev)
-
+            self.iterations += 1
             # print(q)
             if (q / (1 - q)) * np.linalg.norm(
                     np.array([x1_new, x2_new]).reshape(-1, 1) - np.array([x1_prev, x2_prev]).reshape(-1, 1)) < self.eps:

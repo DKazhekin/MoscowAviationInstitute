@@ -1,5 +1,5 @@
 """
-In this program you can solve the system of linear equations, where a coefficient matrix has a special form of 3-Diagonal matrix.
+In this program you can solve the system of linear equations, where a coefficient matrix has a special form of 3-Diagonal matrix. (Progonka)
 So, you need to instanciate a solver class 'RunThrough' with your coefficient matrix A and bias vector b.
 """
 
@@ -24,6 +24,7 @@ class RunThrough:
         else:
             raise ValueError("Check the robust of matrix A")
 
+    # Function to check if the matrix is robust
     def checkRobust(self):
 
         n = self.A.shape[0]
@@ -46,9 +47,10 @@ class RunThrough:
 
         # Forward pass
         n = self.A.shape[0]
+
+        # Creating P and Q
         P = np.zeros(n)
         Q = np.zeros(n)
-
         for i in range(n):
 
             if i == 0:
@@ -64,7 +66,6 @@ class RunThrough:
                 P[i] = -self.A[i][i + 1] / (self.A[i][i] + self.A[i][i - 1] * P[i - 1])
                 Q[i] = (self.b[i] - self.A[i][i - 1] * Q[i - 1]) / (self.A[i][i] + self.A[i][i - 1] * P[i - 1])
 
-
         # Backward pass
         x = np.zeros(n)
         for i in range(n - 1, -1, -1):
@@ -77,7 +78,9 @@ class RunThrough:
         return x
 
 
-A = np.array([[-11, -8, 0, 0, 0], [9, -17, 1, 0, 0], [0, -4, 20, 9, 0], [0, 0, -4, -14, 3], [0, 0, 0, -6, 14]], dtype=float)
-b = np.array([99, -75, 66, 54, 8], dtype=float)
-solve = RunThrough(A, b)
-print("X: ", solve.runThrough())
+if __name__ == "__main__":
+    A = np.array([[-11, -8, 0, 0, 0], [9, -17, 1, 0, 0], [0, -4, 20, 9, 0], [0, 0, -4, -14, 3], [0, 0, 0, -6, 14]],
+                 dtype=float)
+    b = np.array([99, -75, 66, 54, 8], dtype=float)
+    solve = RunThrough(A, b)
+    print("X: ", solve.runThrough())

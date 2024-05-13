@@ -17,6 +17,7 @@ class Eigen:
     def A(self):
         return self._A
 
+    # Checking matrix A to be symmetric
     @A.setter
     def A(self, matrix: np.ndarray):
         for i in range(matrix.shape[0]):
@@ -59,21 +60,25 @@ class Eigen:
             A = U.T @ A @ U
             U_s.append(U)
 
-            # Check the converegence
+            # Check the converegence as Frobenius upper triangular matrix, as it symmetric
             conv = 0
             for i in range(n):
                 for j in range(i + 1, n):
                     conv += A[i, j] ** 2
             conv = np.sqrt(conv)
+
             if conv < self.eps:
+                # Returning Eigenvalues, Eigenvectors
                 return np.diag(A), np.linalg.multi_dot(U_s)
 
 
-A = np.array([[9, -2, 3],
-              [-2, 6, 8],
-              [3, 8, -6]])
+if __name__ == "__main__":
+    A = np.array([[2, -2, 3],
+                  [-2, 5, 4],
+                  [3, 4, 2]])
 
-solver = Eigen(A, 1e-100)
-eigenvalues, eigenvectors = solver.jacobi_rotation()
-print("Eigenvalues:", eigenvalues)
-print("Eigenvectors:\n", eigenvectors)
+    solver = Eigen(A, 0.001)
+    eigenvalues, eigenvectors = solver.jacobi_rotation()
+
+    print("Eigenvalues:", eigenvalues)
+    print("Eigenvectors:\n", eigenvectors)
