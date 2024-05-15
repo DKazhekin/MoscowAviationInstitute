@@ -46,7 +46,7 @@ class Newton:
 
     # Checking non-null determinant for convergence
     def check_constraints(self, x1, x2):
-        if np.linalg.det(self.Jacobi(x1, x2)) == 0:
+        if Linalg(self.Jacobi(x1, x2), None).determinant() == 0:
             raise "Error! J has zero determinant!"
         return True
 
