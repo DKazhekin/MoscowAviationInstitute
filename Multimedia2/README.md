@@ -4,7 +4,7 @@
 
 - Ссылка на датасет ЛР№6: https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224.
 - Ссылка на датасет ЛР№7: https://www.kaggle.com/datasets/sadhliroomyprime/cricket-semantic-segmentation
-- Ссылка на датасет ЛР№8: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection/data
+- Ссылка на датасет ЛР№8: https://huggingface.co/datasets/Nfiniteai/product-masks-sample
 
 ### ЛР№6
 
